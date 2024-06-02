@@ -3,7 +3,7 @@ _This repository shows code made for Thesis handed in by Jens & Morten at Aarhus
  - **"Forecasting house price growth rates in the US using 
   univariate statistical- and tree-based machine learning models"**
 
-_All different python scripts contains comments so the individual scripts can be understood. If you want to recreate scripts, you need to manually changes uploads as well as savining files produced from scripts, as the repository was made in Google Colab._
+_All different python scripts contain comments so the individual scripts can be understood. If you want to recreate scripts, you need to manually changes uploads as well as saving files produced from scripts, as the repository was made in Google Colab._
 # **Folders in repository**
 
 The repository is split into 3 different folders. We will describe functionalities of each folder subsequently. 
